@@ -1,0 +1,832 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Woman Leadership 10 years: Topic modeling and Computational Grounded Theory Approach",
+    "section": "",
+    "text": "한국 여성 리더 내러티브의 종합 재분석",
+    "crumbs": [
+      "한국 여성 리더 내러티브의 종합 재분석"
+    ]
+  },
+  {
+    "objectID": "index.html#초록",
+    "href": "index.html#초록",
+    "title": "Woman Leadership 10 years: Topic modeling and Computational Grounded Theory Approach",
+    "section": "초록",
+    "text": "초록\n\n지난 10여 년간 연구팀은 일-가정 균형, 경력 및 리더십 개발, 문화적 맥락을 중심으로 한국 여성 리더에 대한 8개의 질적 연구를 수행하였다. HRD 연구에서 계산적 분석이 부상함에 따라, 질적 연구의 주관성 문제를 보완하기 위해 대규모 텍스트를 분석하는 계산적 기법인 토픽 모델링을 활용하여 200개의 내러티브를 재분석할 필요성을 느꼈다. 본 연구의 목적은 토픽 모델링을 통해 도출된 연구 토픽을 확인하고, 이를 기존 8개 질적 연구의 테마와 비교하며, HRD 연구와 실천에 대한 함의를 제시하는 것이다.\n\n키워드: 여성 리더, 계산적 분석, 토픽 모델링, 근거 이론, 한국, HRD",
+    "crumbs": [
+      "한국 여성 리더 내러티브의 종합 재분석"
+    ]
+  },
+  {
+    "objectID": "index.html#연구-어젠다",
+    "href": "index.html#연구-어젠다",
+    "title": "Woman Leadership 10 years: Topic modeling and Computational Grounded Theory Approach",
+    "section": "연구 어젠다",
+    "text": "연구 어젠다\n본 프로젝트는 200개 심층 인터뷰(2015–2022)라는 단일 종단 데이터셋에서 4편의 논문을 산출한다.\n\n\n\n\n\n\n\n\n\n논문\n유형\n핵심 기여\n타겟 저널\n\n\n\n\nA\n계산적 분석\n이중 STM 분석: 전문 vs. 코드+인용문\nHRDQ, EJHRD\n\n\nB\n이론 적용\n문헌 기반 개념 모델 → GT 코딩 데이터 적용\nHRD 주제 저널\n\n\nC-1\n방법론 개발\nAI-human-in-loop GT: 절차적 지식, 장단점, 한계\nORM, QRMJ 등\n\n\nC-2\n실질 발견\n한국 여성 리더십: S&C + 차마즈 + 최신 방법 적용 결과\n리더십·젠더 저널",
+    "crumbs": [
+      "한국 여성 리더 내러티브의 종합 재분석"
+    ]
+  },
+  {
+    "objectID": "index.html#연구-계획",
+    "href": "index.html#연구-계획",
+    "title": "Woman Leadership 10 years: Topic modeling and Computational Grounded Theory Approach",
+    "section": "연구 계획",
+    "text": "연구 계획\n\n일정\n\n\n\n마일스톤\n목표일\n\n\n\n\n1차 코딩 완료\n✅ 2026-03-23\n\n\nGT Phase 2-5 분석 빌드 완료\n✅ 2026-03-24\n\n\nHITL 시스템 구현\n✅ 2026-03-24\n\n\nAI-Work-5 v2 네트워크 시각화\n✅ 2026-03-24\n\n\nATLAS.ti Phase 5 네트워크 확정\n✅ 2026-03-25\n\n\n연구방향 확정 (A, B, C)\n✅ 2026-03-24\n\n\nC-1 논문 — 방법론 논문 작성\n진행 중\n\n\nC-2 논문 — HITL → 핵심 범주 추출\n진행 중\n\n\nA 논문 — STM 이중 분석\n대기 (Analysis8 R 스크립트 검토 후)\n\n\nB 논문 — 개념 모델 선택\n대기 (문헌 리뷰 후)\n\n\nA 논문 — 초고 완성\n2026-04-30\n\n\n\n\n\n진행 현황 (5/18 완료)\n\n200개 인터뷰 데이터 수집 (2015–2022)\n1차 코딩 완료: 1,018 코드 / 5,707 인용문 / 25,204 링크\nATLAS.ti Build 1~5 검증 완료\n연구방향 A, B, C 확정 (2026-03-24)\nGT Phase 2-5 분석 빌드 완료 (57 카테고리, 40 포커스 코드)\nHITL(Human-in-the-Loop) 시스템 구현\nPhase 5 네트워크 분석 확정\nC-1 논문 방법론 기술 (ai-work-change 경험 문서화)\nC-2 논문 HITL 체크포인트 → 핵심 범주 추출\nHITL 연구자 편집 (3개 JSON 파일 완료 대기)\nA 논문 STM 재분석 (전문 + 코드·인용문)\nA 논문 Findings 작성\nB 논문 개념 모델 선택 및 문헌 리뷰\nC-2 2차 코딩 (SK-01 범주화~)",
+    "crumbs": [
+      "한국 여성 리더 내러티브의 종합 재분석"
+    ]
+  },
+  {
+    "objectID": "index.html#저자-정보",
+    "href": "index.html#저자-정보",
+    "title": "Woman Leadership 10 years: Topic modeling and Computational Grounded Theory Approach",
+    "section": "저자 정보",
+    "text": "저자 정보\n\n저자 기여\n\n지도·감독: 조연주\n행정관리: 조연주\n개념화: 채충일\n데이터 수집: 조연주\n데이터 정제: 채충일, 이수미\n형식 분석: 채충일\n조사: 조연주, 유지은, 이수미\n방법론: 채충일\n자원: 조연주\n검증: 조연주, 유지은, 이수미, 채충일\n시각화: 채충일\n원고 작성: 채충일, 조연주, 유지은, 이수미\n검토·편집: 조연주, 유지은, 이수미, 채충일\n\n\n\n저자\n\n조연주 (Yonjoo Cho)\nUniversity of Texas at Tyler\n\n\n채충일 (Chungil Chae), Ph.D., M.S.\n\n\n\nchadchae@gmail.com\norcid: 000-0002-7364-1525\nGoogle Scholar\n\n\n\n\n\n\n채충일 박사는 중국 원저우-킨대학교 비즈니스 애널리틱스 조교수로, 데이터 분석, HRD, 다국적 기업 내 지식 공유를 전문으로 한다.\n\n\n\n유지은 (Jieun You)\nValdosta State University\n\n\n이수미 (Sumi Lee)\nUniversity of Georgia",
+    "crumbs": [
+      "한국 여성 리더 내러티브의 종합 재분석"
+    ]
+  },
+  {
+    "objectID": "index.html#선언",
+    "href": "index.html#선언",
+    "title": "Woman Leadership 10 years: Topic modeling and Computational Grounded Theory Approach",
+    "section": "선언",
+    "text": "선언\n\nIRB\n2차 데이터 분석 — IRB 면제(Category 4). 원 8개 연구는 Indiana University IRB 승인.\n\n\n재원\n미정\n\n\nAI 활용\n본 프로젝트는 AI 지원 질적 코딩 및 계산적 분석에 Claude Code(Anthropic)를 활용한다. 모든 AI 생성 결과물은 연구팀의 검토 및 검증을 거쳤으며, AHRD AI 책임 활용 가이드라인을 준수한다.",
+    "crumbs": [
+      "한국 여성 리더 내러티브의 종합 재분석"
+    ]
+  },
+  {
+    "objectID": "rl_research_log.html",
+    "href": "rl_research_log.html",
+    "title": "연구 로그",
+    "section": "",
+    "text": "2026-03-24",
+    "crumbs": [
+      "Research Logs",
+      "연구 로그"
+    ]
+  },
+  {
+    "objectID": "rl_research_log.html#section",
+    "href": "rl_research_log.html#section",
+    "title": "연구 로그",
+    "section": "",
+    "text": "기존문서 전수 검토 완료 (draft 1~4, 조연주 교수 2024-06 수정본, AHRD 포스터, IRB 서류, 문헌 통합 분석, CFP)\n연구방향 A, B, C 논문 확정\nA 논문 확정: 이중 STM 분석 — 전문 + 코드·인용문\nB 논문 확정: 문헌 기반 개념 모델 → 질적 분석 (ai-work-change 방식 적용)\nC-1 논문 확정: AI-human-in-loop GT 방법론 페이퍼 (방법론 저널)\nC-2 논문 확정: 한국 여성 리더십 GT 발견 결과 (주제 저널)\nREADME, _project.yaml, public Quarto 북 업데이트 완료\n연구방향 문서 작성: RD-001 ~ RD-004\nGT 2차 코딩 ATLAS.ti 빌드 전체 완료:\n\nPhase 2: 57개 범주 TagGroup + 범주별 메모 58개\nPhase 3: freq 2-9 코드 통합 (276매핑 + 162 미분류)\nPhase 4: 초점코드 40개 TagGroup + 메모 42개\nPhase 5: 타입폴더 3개 (in-vivo/gerund/meaning) + 메모 3개, 누적 109개\nPhase 5N: 네트워크 뷰 5개 + tagTagLink 21개 + memoNetworkLink/memoTagLink 연결\n\nHITL (Human-in-the-Loop) 시스템 구현 완료:\n\nextract_researcher_edits.py: .atlasti diff → JSON\napply_researcher_edits.py: JSON 편집 → Phase 빌드 자동 반영\nPhase 2~5 빌드 스크립트 모두 HITL 통합\n\nAI-Work-Change v2 네트워크 빌드 (AI-Work-5-네트워크뷰_v2.atlasti):\n\n5 NV + 47 tagTagLink + 5 memoNetworkLink + 5 memoTagLink ✅\nsave/close 크래시 해결 확인 (ATLAS.ti 25 버그 자체 해결)\n\nATLAS.ti 빌드 패턴 지식베이스 업데이트 (코드 관계, 네트워크 뷰, HITL)",
+    "crumbs": [
+      "Research Logs",
+      "연구 로그"
+    ]
+  },
+  {
+    "objectID": "rl_research_log.html#section-1",
+    "href": "rl_research_log.html#section-1",
+    "title": "연구 로그",
+    "section": "2026-03-23",
+    "text": "2026-03-23\n\n1차 코딩 완료 검증\n\n1,018 코드 / 5,707 인용문 / 25,204 코드-인용문 링크\n200/200 문서 코딩 완료\n이론적 포화 달성\n\nATLAS.ti Build 1 (여성리더십_1_1차코딩완료.atlasti) 검증 완료",
+    "crumbs": [
+      "Research Logs",
+      "연구 로그"
+    ]
+  },
+  {
+    "objectID": "rl_research_log.html#section-2",
+    "href": "rl_research_log.html#section-2",
+    "title": "연구 로그",
+    "section": "2026-03-20",
+    "text": "2026-03-20\n\n프로젝트 단계 이관: 개시 단계 → 검증 중",
+    "crumbs": [
+      "Research Logs",
+      "연구 로그"
+    ]
+  },
+  {
+    "objectID": "rl_research_log.html#section-3",
+    "href": "rl_research_log.html#section-3",
+    "title": "연구 로그",
+    "section": "2024-06-28",
+    "text": "2024-06-28\n\n팀 업무 분장 메모 (조연주 → 채충일: 문헌 검토 완성, 분석 작성, Findings)\n목표: 7월 말 초고 완성, 8월 19일 투고",
+    "crumbs": [
+      "Research Logs",
+      "연구 로그"
+    ]
+  },
+  {
+    "objectID": "rl_research_log.html#section-4",
+    "href": "rl_research_log.html#section-4",
+    "title": "연구 로그",
+    "section": "2024-06-23",
+    "text": "2024-06-23\n\n조연주 교수 수정본 제출 (draft_Jun23_2024_from_Cho.docx)",
+    "crumbs": [
+      "Research Logs",
+      "연구 로그"
+    ]
+  },
+  {
+    "objectID": "rl_research_log.html#section-5",
+    "href": "rl_research_log.html#section-5",
+    "title": "연구 로그",
+    "section": "2024-05",
+    "text": "2024-05\n\n토픽 레이블 검토 세션 (이수미, 유지은 검토)",
+    "crumbs": [
+      "Research Logs",
+      "연구 로그"
+    ]
+  },
+  {
+    "objectID": "rl_research_log.html#section-6",
+    "href": "rl_research_log.html#section-6",
+    "title": "연구 로그",
+    "section": "2024-03-29",
+    "text": "2024-03-29\n\n팀 미팅\n\n채충일: 연구 홈 소개, STM 5개 모델 작업 중\n레이블링: 유지은·채충일 → 조연주·이수미 검토 순서 제안\n조연주: 구글드라이브 draft 업데이트 중\n\n다음 미팅: 4월 13일 오후 11시 (중국 시간)",
+    "crumbs": [
+      "Research Logs",
+      "연구 로그"
+    ]
+  },
+  {
+    "objectID": "rl_research_log.html#section-7",
+    "href": "rl_research_log.html#section-7",
+    "title": "연구 로그",
+    "section": "2023-09-29",
+    "text": "2023-09-29\n\n키워드 네트워크 분석 완료 (A Brief Report.docx)\n단어 빈도 분석 (wordfreq.csv)",
+    "crumbs": [
+      "Research Logs",
+      "연구 로그"
+    ]
+  },
+  {
+    "objectID": "rl_research_log.html#section-8",
+    "href": "rl_research_log.html#section-8",
+    "title": "연구 로그",
+    "section": "2023",
+    "text": "2023\n\nSTM 분석 반복 실행: Analysis0 → Analysis8\nDraft 1 작성",
+    "crumbs": [
+      "Research Logs",
+      "연구 로그"
+    ]
+  },
+  {
+    "objectID": "rl_research_log.html#section-9",
+    "href": "rl_research_log.html#section-9",
+    "title": "연구 로그",
+    "section": "2015–2022",
+    "text": "2015–2022\n\n8개 질적 연구 수행\n200개 심층 인터뷰 수집 (다양한 섹터)",
+    "crumbs": [
+      "Research Logs",
+      "연구 로그"
+    ]
+  },
+  {
+    "objectID": "rl_meeting_log.html",
+    "href": "rl_meeting_log.html",
+    "title": "미팅 로그",
+    "section": "",
+    "text": "2026-03-24 — 연구방향 결정 세션 (채충일 + Claude Code)\n주요 결정사항: - 논문 A: 이중 STM 분석 (전문 + 코드·인용문) - 논문 B: 문헌 기반 개념 모델 → 질적 분석 (ai-work-change 접근 적용) - 논문 C-1: AI-human-in-loop GT 방법론 페이퍼 (방법론 전문 저널) - 논문 C-2: 한국 여성 리더십 실질 발견 (주제 저널)\n확인 사항: - STM 분석 결과물(Analysis0~8) 존재. 방향 확정 후 업데이트 예정 - 조연주·유지은·이수미 교수팀 협업 활성 - 목표: 2026-04-30 초고(A 논문) 완성\n작성 문서: RD-002, RD-003, RD-004 (docs/연구방향/)",
+    "crumbs": [
+      "Research Logs",
+      "미팅 로그"
+    ]
+  },
+  {
+    "objectID": "rl_meeting_log.html#연구방향-결정-세션-채충일-claude-code",
+    "href": "rl_meeting_log.html#연구방향-결정-세션-채충일-claude-code",
+    "title": "미팅 로그",
+    "section": "",
+    "text": "기존문서 전수 검토 완료\n연구방향 A, B, C 확정",
+    "crumbs": [
+      "Research Logs",
+      "미팅 로그"
+    ]
+  },
+  {
+    "objectID": "rl_meeting_log.html#팀-미팅",
+    "href": "rl_meeting_log.html#팀-미팅",
+    "title": "미팅 로그",
+    "section": "2024-03-29 — 팀 미팅",
+    "text": "2024-03-29 — 팀 미팅\n\n채충일: 연구 홈 소개 (https://chadchae.github.io/rp_2024_woman_leadership/)\n\n현재 5개 STM 모델 작업 중\n제안: 유지은·채충일이 레이블링 → 조연주·이수미 검토\n\n조연주: 구글드라이브 draft 업데이트 중\n다음 미팅: 4월 13일 오후 11시 (중국 시간)",
+    "crumbs": [
+      "Research Logs",
+      "미팅 로그"
+    ]
+  },
+  {
+    "objectID": "rl_analysis_version_log.html",
+    "href": "rl_analysis_version_log.html",
+    "title": "분석 버전 로그",
+    "section": "",
+    "text": "GT 코딩 — 1차 코딩",
+    "crumbs": [
+      "Research Logs",
+      "분석 버전 로그"
+    ]
+  },
+  {
+    "objectID": "rl_analysis_version_log.html#gt-코딩-1차-코딩",
+    "href": "rl_analysis_version_log.html#gt-코딩-1차-코딩",
+    "title": "분석 버전 로그",
+    "section": "",
+    "text": "Version 2.0 (2026-03-23) ✅ 완료\n\n방법: 근거 이론 초기 코딩 (AI-human-in-loop)\n도구: Claude Code + ATLAS.ti 25\n결과:\n\n1,087 코드 생성 → 병합 후 1,018 활성 코드\n5,707 인용문 (5개 스킵: offset 매핑 불가)\n25,204 코드-인용문 링크\n200/200 문서 코딩 완료\n이론적 포화 달성\n\n산출물: 여성리더십_1_1차코딩완료.atlasti (5.3 MB, 검증 완료)\n데이터 위치: Analysis/Qual/분석절차/1차코딩_v2/\n\n\n\nVersion 1.0 (deprecated)\n\n이전 코딩 시도. v2 재코딩으로 대체.",
+    "crumbs": [
+      "Research Logs",
+      "분석 버전 로그"
+    ]
+  },
+  {
+    "objectID": "rl_analysis_version_log.html#stm-분석-계산적-분석",
+    "href": "rl_analysis_version_log.html#stm-분석-계산적-분석",
+    "title": "분석 버전 로그",
+    "section": "STM 분석 — 계산적 분석",
+    "text": "STM 분석 — 계산적 분석\n\nAnalysis8 (최신)\n\n상태: 완료. 연구방향 확정 후 업데이트 예정.\n데이터: 전체 인터뷰 전문 (200개)\n방법: STM (Structural Topic Modeling), R stm 패키지\n위치: 기존분석/Quan/Analysis8/\n\n\n\nAnalysis0~7 (이전 반복)\n\n전처리, 불용어, 토픽 수 최적화 반복 실험\n위치: 기존분석/Quan/Analysis0~7/",
+    "crumbs": [
+      "Research Logs",
+      "분석 버전 로그"
+    ]
+  },
+  {
+    "objectID": "rl_analysis_version_log.html#gt-코딩-2차-코딩-atlas.ti-범주화-빌드",
+    "href": "rl_analysis_version_log.html#gt-코딩-2차-코딩-atlas.ti-범주화-빌드",
+    "title": "분석 버전 로그",
+    "section": "GT 코딩 — 2차 코딩 (ATLAS.ti 범주화 빌드)",
+    "text": "GT 코딩 — 2차 코딩 (ATLAS.ti 범주화 빌드)\n\nPhase 5N — 네트워크 뷰 (2026-03-24) ✅ 완료\n\n방법: tagTagLink + networkView + 메모 + HITL 시스템\n도구: Python (native XML) + ATLAS.ti 25\n결과:\n\n타입 폴더 3개: in-vivo / gerund / meaning\n네트워크 뷰 5개 (초점코드 간 관계 시각화)\ntagTagLink 21개 (여성리더십 / AI-Work 검증 패턴 확립)\n메모-네트워크 연결 (memoNetworkLink 5개, memoTagLink 5개)\nHuman-in-the-Loop 시스템 구현 완료\n\n산출물: 여성리더십_0_1차코딩_Phase5_최종_네트워크.atlasti (8.7 MB, ✅ 검증 완료)\n\n\n\nPhase 5 — 최종 구조 (2026-03-24) ✅ 완료\n\n결과:\n\n타입 폴더 3개: in-vivo / gerund / meaning (전체 코드 타입별 분류)\n메모 3개 (3층 구조 설명, 최종구조 요약, 다음단계 로드맵)\n누적 메모 109개\n\n산출물: 여성리더십_0_1차코딩_Phase5_최종.atlasti\n\n\n\nPhase 4 — 초점 코드 (2026-03-24) ✅ 완료\n\n결과:\n\n초점 코드 TagGroup: gerund 동명사형 상위 40개 선별\n선별 알고리즘: score = freq×2 + doc_freq\n메모 42개 (초점코드 40개 개별 + 선별기준 + 절차)\n\n산출물: 여성리더십_0_1차코딩_Phase4_초점코드.atlasti\n\n\n\nPhase 3 — 코드 통합 (2026-03-24) ✅ 완료\n\n결과:\n\nfreq 2-9 코드 438개 Phase 2 범주에 통합\n매핑 코드 276개 → 57개 범주 배정\n미분류 그룹 (162개 코드 보류)\n메모 3개 (통합절차, 미분류그룹 설명, 코드폴더vs코드그룹)\n\n산출물: 여성리더십_0_1차코딩_Phase3_코드통합.atlasti\n\n\n\nPhase 2 — 범주화 (2026-03-24) ✅ 완료\n\n결과:\n\nTagGroup 57개 (CAT-A01~O05) 생성\n메모 58개 (범주별 설명 메모)\nGT 범주화: 1,018 활성 코드 → 57개 의미적 군집\n\n산출물: 여성리더십_0_1차코딩_Phase2_범주화.atlasti",
+    "crumbs": [
+      "Research Logs",
+      "분석 버전 로그"
+    ]
+  },
+  {
+    "objectID": "rl_analysis_version_log.html#예정-분석",
+    "href": "rl_analysis_version_log.html#예정-분석",
+    "title": "분석 버전 로그",
+    "section": "예정 분석",
+    "text": "예정 분석\n\nSTM 재분석 (예정 — 논문 A)\n\n분석 A-1: 전문 (200개) → STM 업데이트\n분석 A-2: 코드+인용문 (5,707개) → STM 신규 분석\n목적: 이중 방법 비교 (논문 A의 핵심 기여)\n\n\n\nGT 2차 코딩 심화 (예정 — 논문 C-2)\n\nSK-02: 속성-차원 분석\nSK-03: 패러다임 모델 적용\nSK-07: 코드 동시출현 분석\nSK-10: 핵심 범주 선정 (초점코드 40개 → 5-10개 핵심범주)\nSK-11: 스토리라인 구성",
+    "crumbs": [
+      "Research Logs",
+      "분석 버전 로그"
+    ]
+  },
+  {
+    "objectID": "rl_draft_version_log.html",
+    "href": "rl_draft_version_log.html",
+    "title": "초고 버전 로그",
+    "section": "",
+    "text": "논문 A — 계산적 STM 분석",
+    "crumbs": [
+      "Research Logs",
+      "초고 버전 로그"
+    ]
+  },
+  {
+    "objectID": "rl_draft_version_log.html#논문-a-계산적-stm-분석",
+    "href": "rl_draft_version_log.html#논문-a-계산적-stm-분석",
+    "title": "초고 버전 로그",
+    "section": "",
+    "text": "Ver 0.4 (2024-06-23) — 조연주 교수 수정본\n\n초록 업데이트\n서론 정제\n문헌 검토: 질적 연구의 계산적 분석 섹션 확장\nFindings: 여전히 비어 있음\n파일: 기존문서/draft_Jun23_2024_from_Cho.docx\n\n\n\nVer 0.3 — 채충일 수정본\n\n방법 섹션 상세화\n분석 절차 기술\n참고문헌 완성\n파일: 기존문서/draft 2_Chad.docx\n\n\n\nVer 0.2 (구글드라이브)\n\nDraft 2 — 구조 확립\n파일: 기존문서/google drive-20240622/draft/draft 2.docx\n\n\n\nVer 0.1 (구글드라이브)\n\nDraft 1 — 초기 구조\n파일: 기존문서/google drive-20240622/draft/draft 1.docx",
+    "crumbs": [
+      "Research Logs",
+      "초고 버전 로그"
+    ]
+  },
+  {
+    "objectID": "rl_draft_version_log.html#논문-b-개념-모델-질적-분석",
+    "href": "rl_draft_version_log.html#논문-b-개념-모델-질적-분석",
+    "title": "초고 버전 로그",
+    "section": "논문 B — 개념 모델 + 질적 분석",
+    "text": "논문 B — 개념 모델 + 질적 분석\n\n상태: 방향 확정 (2026-03-24). 개념 모델 선택 미결정.",
+    "crumbs": [
+      "Research Logs",
+      "초고 버전 로그"
+    ]
+  },
+  {
+    "objectID": "rl_draft_version_log.html#논문-c-1-ai-cgt-방법론-페이퍼",
+    "href": "rl_draft_version_log.html#논문-c-1-ai-cgt-방법론-페이퍼",
+    "title": "초고 버전 로그",
+    "section": "논문 C-1 — AI-CGT 방법론 페이퍼",
+    "text": "논문 C-1 — AI-CGT 방법론 페이퍼\n\n상태: 방향 확정 (2026-03-24). ai-work-change 방법론 노트 기반 확장.",
+    "crumbs": [
+      "Research Logs",
+      "초고 버전 로그"
+    ]
+  },
+  {
+    "objectID": "rl_draft_version_log.html#논문-c-2-여성-리더십-gt-발견-결과",
+    "href": "rl_draft_version_log.html#논문-c-2-여성-리더십-gt-발견-결과",
+    "title": "초고 버전 로그",
+    "section": "논문 C-2 — 여성 리더십 GT 발견 결과",
+    "text": "논문 C-2 — 여성 리더십 GT 발견 결과\n\n상태: 방향 확정 (2026-03-24). 2차 코딩 완료 후 착수.",
+    "crumbs": [
+      "Research Logs",
+      "초고 버전 로그"
+    ]
+  },
+  {
+    "objectID": "rn_ideas_and_thoughts.html",
+    "href": "rn_ideas_and_thoughts.html",
+    "title": "아이디어 및 생각",
+    "section": "",
+    "text": "2026-03-24",
+    "crumbs": [
+      "Research Note",
+      "아이디어 및 생각"
+    ]
+  },
+  {
+    "objectID": "rn_ideas_and_thoughts.html#section",
+    "href": "rn_ideas_and_thoughts.html#section",
+    "title": "아이디어 및 생각",
+    "section": "",
+    "text": "논문 A — 이중 STM 비교 아이디어\n논문 A의 핵심 방법론적 통찰: 동일 데이터셋에서 두 가지 STM 분석을 실행하면 내재적 삼각검증이 가능하다.\n\n분석 1 (전문): 기계 주도, 연구자 선택 편향 없음, 노이즈 포함\n분석 2 (코드+인용문): 연구자 정제 신호, 노이즈 제거, 선택 편향 존재\n\n두 분석에서 수렴하는 토픽 = 강건한 발견 (robust findings) 발산하는 토픽 = 방법론 논의 소재 (각 접근이 무엇을 더 포착하는가)\n이 프레임은 논문 A를 단순히 “STM을 적용했다”가 아니라 “동일 데이터에서 두 계산적 접근을 비교했다”는 더 강한 방법론적 기여로 포지셔닝한다.\n\n\n\n논문 B — 개념 모델 접근\nai-work-change 방법론을 여성 리더십에 적용:\n\n문헌 리뷰 → 개념 모델 선택\n선택한 모델을 1,018개 GT 코드 + 5,707개 인용문에 적용\n모델 검증, 확장, 또는 도전\n\nRD-001 모델 선택 힌트 (코드 빈도 기반): - 젠더와 리더십 (3,758회) — 역할 일치 이론 (Eagly & Karau, 2002) - 리더 정체성 (2,815회) — 이바라의 리더 정체성 전환 (2010) - 일-가정 (2,507회) — Greenhaus & Powell (2006)\n가능한 통합 모델: 젠더 장벽 → 정체성 작업 → 리더십 이머전스\n\n\n\n논문 C-1 — AI-CGT 방법론 기여 포인트\nGT에서 AI가 기여하는 지점: - 초기 line-by-line 코딩의 속도·일관성 - 200개 문서 전체에 걸친 대규모 지속적 비교 - 대규모 코퍼스에서 동시출현 패턴 파악\n인간 판단이 필수인 지점: - 이론적 민감성 — 어떤 코드가 분석적으로 유의한가 - 문화적 해석 — 한국 특유의 표현과 사회적 맥락 - 포화 판단 — 범주가 포화되었는지 최종 판단 - 이론 구축 — 범주를 일관된 이론으로 연결\nAI-CGT의 독특한 특성: - 연구자 역할의 전환: “코더”에서 “큐레이터·검증자”로 - AI-인간 결정의 투명한 감사 추적 - 새로운 성찰성(reflexivity) 실천 가능성 (AI는 위치성이 없음 — 구성주의 GT에서 어떻게 처리할 것인가?)\n\n\n\n논문 C-2 — 잠정 이론: “장벽의 자원화”\nRD-001 분석 기반 (81개 문서, 잠정):\n[젠더 장벽·구조적 차별]\n    ↓ 추동력 전환 (421회)\n[역경 학습 + 자기주도 학습]\n    ↓\n[실적 기반 이머전스 (grant 경로)]\n    ↓\n[선구자 위치 + 리더 정체성 재구성]\n    ↓\n[모성·공적·관계 스타일의 혼합]\n    ↓\n[다음 세대 지원 의무감 — 선발대 의식 (283회)]\n핵심 명제: 한국 여성 리더십은 근본적으로 “장벽의 자원화(adversity-as-resource)” 과정이다.\n“어머니 리더십” — 새로운 구성개념 (77회): 돌봄 + 훈육 + 희생 + 장기적 관점. 서구 리더십 이론에 없는 한국 문화 고유 구성개념. 서번트 리더십과 유사하지만 문화적으로 다름.",
+    "crumbs": [
+      "Research Note",
+      "아이디어 및 생각"
+    ]
+  },
+  {
+    "objectID": "rn_questions_and_answers.html",
+    "href": "rn_questions_and_answers.html",
+    "title": "연구 Q&A",
+    "section": "",
+    "text": "2026-03-24",
+    "crumbs": [
+      "Research Note",
+      "연구 Q&A"
+    ]
+  },
+  {
+    "objectID": "rn_questions_and_answers.html#section",
+    "href": "rn_questions_and_answers.html#section",
+    "title": "연구 Q&A",
+    "section": "",
+    "text": "Q: 토픽 모델링에서 전문 vs. 코드+인용문의 장단점은?\n전문(Full Transcripts) → STM\n장점: - 표준적 접근, 기존 STM 문헌과 직접 비교 가능 - 연구자 선택 편향 없음 — 기계가 전체 텍스트에서 패턴 발견 - 코퍼스가 클수록 LDA/STM 결과 안정적 - 전처리만 동일하면 재현 가능\n단점: - 노이즈 다량 포함: 면담자 질문, 추임새, 주제 이탈 발화 - 인터뷰 구조 편향: 토픽이 질문 카테고리를 반영할 수 있음 - 한국어 형태소 처리 부담 (자모분리 문제 실제 존재) - 1,018개 GT 코딩 자산 미활용\n코드+인용문 → STM\n장점: - 고밀도 신호: 연구자가 선별한 5,707개 인용문, 노이즈 제거 - STM 공변량 완전 활용 (섹터, 연도, 직위, 혼인 상태) - 방법론적 독창성: Computational Grounded Theory (Nelson, 2020) 실제 구현 - 삼각검증: 동일 데이터에서 GT 코드 vs. STM 토픽 비교 - 한국어 처리 유리: 의미 있는 문장 단위, 전처리 부담 감소\n단점: - 선택 편향: 코딩되지 않은 발화는 분석에서 제외 - 짧은 텍스트 세그먼트: LDA가 매우 짧은 텍스트에서 불안정할 수 있음 (5,707개 물량으로 보완) - 잠재적 순환논리: 연구자 선별 텍스트 → 기계가 연구자 코딩 확인\n결정 (2026-03-24): 둘 다 수행. 결과 비교 자체가 논문 A의 방법론적 기여.\n\n\n\nQ: 기존 STM 분석(Analysis0~8)을 바로 활용할 수 있나?\n답변: 결과물 존재. 연구방향 확정 후 업데이트 예정. 분석 파이프라인(R 스크립트, 전처리)은 기존분석/Quan/Analysis0~8/에 있음.\n\n\n\nQ: 팀 협업이 활성 상태인가?\n답변: 그렇다. 조연주·유지은·이수미 교수 협업 중.\n\n\n\nQ: 2026-04-30 마감은 무엇을 의미하는가?\n답변: 초고(논문 A) 완성 목표.\n\n\n\nQ: GT에서 AI는 어디까지 할 수 있는가?\nGT는 연구자를 주된 해석 주체로 전제한다. AI-human-in-loop GT에서:\n\n\n\nGT 단계\nAI 역할\n인간 역할\n\n\n\n\n초기 코딩 (line-by-line)\n높은 일관성으로 수행 가능\n검토·검증\n\n\n이론적 민감성\n부분 가능 (문헌 기반 패턴 인식)\n필수 — 맥락적 판단\n\n\n지속적 비교\n200개 문서 전체에서 대규모 수행 가능\n방향 설정·해석\n\n\n포화 판단\n빈도 패턴 보조 가능\n최종 해석적 판단\n\n\n메모잉\n분석 메모 초안 작성 가능\n심화·수정·검증\n\n\n이론 구축\n독립적으로 불가\n주도 필수\n\n\n\n이 경계 지도가 논문 C-1의 핵심 기여다.",
+    "crumbs": [
+      "Research Note",
+      "연구 Q&A"
+    ]
+  },
+  {
+    "objectID": "rn_procedures.html",
+    "href": "rn_procedures.html",
+    "title": "연구 절차",
+    "section": "",
+    "text": "전체 연구 절차",
+    "crumbs": [
+      "Research Note",
+      "연구 절차"
+    ]
+  },
+  {
+    "objectID": "rn_procedures.html#전체-연구-절차",
+    "href": "rn_procedures.html#전체-연구-절차",
+    "title": "연구 절차",
+    "section": "",
+    "text": "[Phase 1] 데이터 수집 ✅\n8개 질적 연구 (2015–2022) → 200개 심층 인터뷰\n\n[Phase 2] 데이터 준비 ✅\nDOC/DOCX → TXT 변환 → 익명화 → 메타데이터 구축\n\n[Phase 3] GT 1차 코딩 ✅ (2026-03-23 완료)\nAI-human-in-loop 방식\n1,018 코드 / 5,707 인용문 / 25,204 링크\n\n[Phase 4] 연구방향 확정 ✅ (2026-03-24)\n논문 A, B, C-1, C-2 방향 결정\n\n[Phase 5-A] STM 이중 분석 → 논문 A (진행 예정)\n분석 1: 전문 → STM\n분석 2: 코드+인용문 → STM\n결과 비교 → Findings 작성\n\n[Phase 5-B] 개념 모델 적용 → 논문 B (순차 진행)\n문헌 리뷰 → 모델 선택 → 1차 코딩 재해석\n\n[Phase 5-C] GT 2차 코딩 → 논문 C-2 ✅ 범주화/관계설정 완료\nSK-01 범주화 ✅ (57범주 Phase2) → SK-09 관계설정 ✅ (Phase5N)\nSK-02 속성차원 → SK-03 패러다임 → SK-07 동시출현\nSK-10 핵심범주 → SK-11 스토리라인 → 이론 모형\n\n[Phase 6] 방법론 문서화 → 논문 C-1 (병행)\nai-work-change 방법론 노트 + 여성리더십 분석 경험\nAI-CGT 절차 프로토콜 완성\n\n[Phase 7] 논문 작성 및 투고",
+    "crumbs": [
+      "Research Note",
+      "연구 절차"
+    ]
+  },
+  {
+    "objectID": "rn_procedures.html#gt-코딩-절차",
+    "href": "rn_procedures.html#gt-코딩-절차",
+    "title": "연구 절차",
+    "section": "GT 코딩 절차",
+    "text": "GT 코딩 절차\n\n1차 코딩 (완료)\n\n배치 단위 (5개 문서씩) 코딩\nClaude Code가 line-by-line 초기 코딩 수행\n연구자 검토 및 수정\n코드 병합 및 정제 (1,087 → 1,018)\nATLAS.ti native XML 빌드 (atext3 역공학 방식)\n검증: ATLAS.ti 25에서 수동 확인\n\n\n\n2차 코딩 — ATLAS.ti 빌드 체인 (완료)\nHITL (Human-in-the-Loop) 체크포인트 구조:\nPhase 2: 57범주 TagGroup → 연구자 검토 체크포인트\n    ↓ (researcher_edits_phase2.json 반영)\nPhase 3: freq2-9 코드통합 → 연구자 검토 체크포인트\n    ↓ (researcher_edits_phase3.json 반영)\nPhase 4: 초점코드 40개 선별 → 연구자 검토 체크포인트\n    ↓ (researcher_edits_phase4.json 반영)\nPhase 5: 타입폴더 + 최종 구조 → 연구자 검토 체크포인트\n    ↓\nPhase 5N: 네트워크 뷰 + 코드 간 관계 시각화\n각 체크포인트에서 연구자가 ATLAS.ti에서 직접 편집 후 저장하면, 다음 Phase 빌드에 자동 반영됨.",
+    "crumbs": [
+      "Research Note",
+      "연구 절차"
+    ]
+  },
+  {
+    "objectID": "rn_procedures.html#다음-단계",
+    "href": "rn_procedures.html#다음-단계",
+    "title": "연구 절차",
+    "section": "다음 단계",
+    "text": "다음 단계\n\n논문 C-2: GT 2차 코딩 심화\n\n연구자 HITL 체크포인트 실행 (Phase 2~5 검토 및 편집)\n초점코드 40개 간 관계 심화 분석 (NetworkView 활용)\n핵심범주 도출: 초점코드 군집 → 5-10개 핵심범주 후보\n이론적 포화 검증: 부정사례 탐색, 인터뷰 재독\n선택코딩: 핵심범주 통합 스토리라인 구성\n\n\n\n논문 A: STM 분석\n\nAnalysis8 R 스크립트 검토\n전처리 업데이트 (200개 전체 기준 재실행)\n분석 1 실행: 전문(200개) → STM\n분석 2 실행: 코드+인용문(5,707개) → STM\n토픽 레이블링 (팀 검토)\nFindings 섹션 작성\nDiscussion, Implications 작성\n초고 완성 (2026-04-30 목표)",
+    "crumbs": [
+      "Research Note",
+      "연구 절차"
+    ]
+  },
+  {
+    "objectID": "tf_related_theories.html",
+    "href": "tf_related_theories.html",
+    "title": "관련 이론",
+    "section": "",
+    "text": "1차 코딩 기반 이론 도메인 강도 (RD-001, 잠정)",
+    "crumbs": [
+      "Theoritical Framework",
+      "관련 이론"
+    ]
+  },
+  {
+    "objectID": "tf_related_theories.html#차-코딩-기반-이론-도메인-강도-rd-001-잠정",
+    "href": "tf_related_theories.html#차-코딩-기반-이론-도메인-강도-rd-001-잠정",
+    "title": "관련 이론",
+    "section": "",
+    "text": "리더십 이론\n코드 빈도\n핵심 문헌\n\n\n\n\n젠더와 리더십\n3,758회\nEagly & Carli (2007) 미로 이론; 역할 일치 이론\n\n\n리더 정체성\n2,815회\nIbarra et al. (2010) 리더 정체성 전환\n\n\n일-가정·경력\n2,507회\nGreenhaus & Powell (2006) 일-가정 풍요 이론\n\n\n회복탄력성\n1,522회\nLuthans (2002) 심리적 자본\n\n\n리더십 개발\n1,498회\nDay (2000); McCauley et al. (2010) 70:20:10\n\n\n서번트 리더십\n1,293회\nGreenleaf (1977)\n\n\n리더십 이머전스\n922회\nDeRue & Ashford (2010) claiming-granting\n\n\n진정성 리더십\n852회\nAvolio & Gardner (2005)\n\n\n관계적 리더십\n689회\nUhl-Bien (2006)\n\n\n변혁적 리더십\n659회\nBass & Avolio (1994)",
+    "crumbs": [
+      "Theoritical Framework",
+      "관련 이론"
+    ]
+  },
+  {
+    "objectID": "tf_related_theories.html#핵심-이론-요약",
+    "href": "tf_related_theories.html#핵심-이론-요약",
+    "title": "관련 이론",
+    "section": "핵심 이론 요약",
+    "text": "핵심 이론 요약\n\n역할 일치 이론 (Role Congruity Theory)\nEagly & Karau (2002). 여성에 대한 사회적 역할 기대와 리더십 역할 간의 불일치가 여성 리더에 대한 편견을 만든다. 여성이 리더십을 주장(claim)할 때 역할 불일치 비용이 발생한다.\n데이터 연결: 한국 여성 리더가 선언적 claim보다 타인 인정(grant) 경로로 이머전스하는 현상 설명.\n\n\n리더 정체성 전환 (Leader Identity Work)\nIbarra et al. (2010). 리더십 역할을 맡는 것은 자아 개념의 전환을 수반한다. 정체성 작업(identity work)이 리더십 개발의 핵심이다.\n데이터 연결: “스스로 모드 체인지를 하려고 많이 노력을 해요” (150회) — 자기주도적 정체성 재구성 코드.\n\n\nClaiming-Granting 프레임워크\nDeRue & Ashford (2010). 리더십 이머전스는 개인이 리더 정체성을 주장(claim)하고 타인이 이를 인정(grant)하는 상호작용 과정이다.\n데이터 연결: 한국 여성 리더는 grant-based 이머전스가 지배적 — 실적 기반(895회) + 관계 기반(254회).\n\n\n심리적 자본 (Psychological Capital)\nLuthans (2002). 자기효능감, 희망, 낙관주의, 회복탄력성의 통합 구성개념.\n데이터 연결: “버틸 수 있는 힘이 길러진 것 같아요” (136회) — 역경 후 회복탄력성.",
+    "crumbs": [
+      "Theoritical Framework",
+      "관련 이론"
+    ]
+  },
+  {
+    "objectID": "tf_related_theories.html#한국-고유-개념-어머니-리더십",
+    "href": "tf_related_theories.html#한국-고유-개념-어머니-리더십",
+    "title": "관련 이론",
+    "section": "한국 고유 개념: 어머니 리더십",
+    "text": "한국 고유 개념: 어머니 리더십\n서구 리더십 이론에 없는 한국 문화 고유 구성개념 (77회 등장).\n구성 요소: 돌봄(care) + 훈육(discipline) + 희생(sacrifice) + 장기적 관점 팀원을 “자식처럼” 육성하는 리더십 철학\n서번트 리더십과 유사하나 유교 문화적 의미 층위가 다름: - Servant Leadership: 섬기는 자아(serving self) - 어머니 리더십: 양육하는 자아(nurturing self) + 훈육 권위\nPaper C-2에서 독자적 구성개념으로 이론화 예정.",
+    "crumbs": [
+      "Theoritical Framework",
+      "관련 이론"
+    ]
+  },
+  {
+    "objectID": "tf_theoretical_framework.html",
+    "href": "tf_theoretical_framework.html",
+    "title": "이론적 프레임워크",
+    "section": "",
+    "text": "현재 상태\n이론적 프레임워크는 논문별로 별도 구성. 아래는 각 논문의 이론적 포지셔닝.",
+    "crumbs": [
+      "Theoritical Framework",
+      "이론적 프레임워크"
+    ]
+  },
+  {
+    "objectID": "tf_theoretical_framework.html#paper-a-이론적-배경",
+    "href": "tf_theoretical_framework.html#paper-a-이론적-배경",
+    "title": "이론적 프레임워크",
+    "section": "Paper A — 이론적 배경",
+    "text": "Paper A — 이론적 배경\nComputational Analysis in Qualitative Research\n질적 연구에서 주관성 문제를 보완하기 위한 계산적 분석의 역할: - CAQDAS(NVivo, ATLAS.ti) → 연구자 코딩 지원 - Computational GT(Nelson, 2020) → 기계 주도 패턴 탐지 - Topic Modeling → 대규모 텍스트에서 잠재 토픽 추출\n연구 질문 (기존): &gt; “기존 8개 질적 연구의 테마와 STM 토픽 모델링에서 도출된 핵심 토픽을 어떻게 비교할 것인가?”\n확장된 연구 질문 (2026-03-24 업데이트): &gt; “동일 데이터에서 전문(full transcript) 기반 STM과 코드+인용문 기반 STM은 어떻게 다른 토픽을 생성하며, 그 차이의 방법론적 함의는 무엇인가?”",
+    "crumbs": [
+      "Theoritical Framework",
+      "이론적 프레임워크"
+    ]
+  },
+  {
+    "objectID": "tf_theoretical_framework.html#paper-b-이론적-배경",
+    "href": "tf_theoretical_framework.html#paper-b-이론적-배경",
+    "title": "이론적 프레임워크",
+    "section": "Paper B — 이론적 배경",
+    "text": "Paper B — 이론적 배경\n개념 모델 선택 기준 (선정 예정)\n후보 모델 (RD-001 코드 빈도 기반): 1. 역할 일치 이론(Eagly & Karau, 2002) + 리더 정체성 전환(Ibarra, 2010) 통합 2. 심리적 자본 모델(Luthans, 2002) 3. 리더십 이머전스 claiming-granting(DeRue & Ashford, 2010)\n연구 질문 (예정): &gt; “선택한 개념 모델은 한국 여성 리더십 데이터에서 어떻게 검증되고 확장되는가?”",
+    "crumbs": [
+      "Theoritical Framework",
+      "이론적 프레임워크"
+    ]
+  },
+  {
+    "objectID": "tf_theoretical_framework.html#paper-c-2-잠정-이론-모형",
+    "href": "tf_theoretical_framework.html#paper-c-2-잠정-이론-모형",
+    "title": "이론적 프레임워크",
+    "section": "Paper C-2 — 잠정 이론 모형",
+    "text": "Paper C-2 — 잠정 이론 모형\n“장벽의 자원화 (Adversity-as-Resource)” 모형 (잠정, 2차 코딩 후 검증 필요)\n[젠더 장벽·구조적 차별]\n    ↓ 추동력 전환 (421회)\n[역경 학습 + 자기주도 학습]\n    ↓\n[실적 기반 이머전스 (grant 경로)]\n    ↓\n[선구자 위치 + 리더 정체성 재구성]\n    ↓\n[모성·공적·관계 스타일의 혼합]\n    ↓\n[다음 세대 지원 의무감 — 선발대 의식 (283회)]\n핵심 명제: 한국 여성 리더십은 “장벽의 자원화(adversity-as-resource)” 과정 — 젠더 차별이 리더십 개발의 외부 압력으로 작용하여, 역경·자기주도 학습을 강제하고, 실적 기반 이머전스와 모성·공적 스타일로 귀결된다.\n서구 이론과의 차별점: - Day(2000) 70:20:10 모형 수정 필요: 역경 학습이 독립 구성요소로 포함되어야 함 - Claiming 보다 Granting 이머전스가 지배적 — 젠더 역할 규범이 원인 - 어머니 리더십은 서구 이론에 없는 한국 고유 구성개념",
+    "crumbs": [
+      "Theoritical Framework",
+      "이론적 프레임워크"
+    ]
+  },
+  {
+    "objectID": "tf_theoretical_framework.html#논문별-이론-포지셔닝-요약",
+    "href": "tf_theoretical_framework.html#논문별-이론-포지셔닝-요약",
+    "title": "이론적 프레임워크",
+    "section": "논문별 이론 포지셔닝 요약",
+    "text": "논문별 이론 포지셔닝 요약\n\n\n\n\n\n\n\n\n논문\n이론적 기여 유형\n핵심 주장\n\n\n\n\nA\n방법론 혁신\n두 STM 접근의 비교가 질적 재분석의 새로운 표준 제시\n\n\nB\n이론 검증·확장\n기존 이론이 한국 문화 맥락에서 어떻게 수정되어야 하는가\n\n\nC-1\n방법론 개발\nAI-CGT 절차 프로토콜 — GT에서 AI의 역할 경계 설정\n\n\nC-2\n이론 생성\n장벽의 자원화 + 어머니 리더십 — 한국 여성 리더십 고유 이론",
+    "crumbs": [
+      "Theoritical Framework",
+      "이론적 프레임워크"
+    ]
+  },
+  {
+    "objectID": "mm_methodology.html",
+    "href": "mm_methodology.html",
+    "title": "방법론",
+    "section": "",
+    "text": "연구 방법론 개요\n본 연구는 세 가지 방법론적 접근을 통합한다.",
+    "crumbs": [
+      "Methodology and Method",
+      "방법론"
+    ]
+  },
+  {
+    "objectID": "mm_methodology.html#연구-방법론-개요",
+    "href": "mm_methodology.html#연구-방법론-개요",
+    "title": "방법론",
+    "section": "",
+    "text": "방법론\n적용 논문\n핵심 특징\n\n\n\n\nStructural Topic Modeling (STM)\n논문 A\n계산적 텍스트 분석, 귀납적\n\n\n개념 모델 기반 질적 분석\n논문 B\n연역-귀납 혼합\n\n\nAI-Computational Grounded Theory (AI-CGT)\n논문 C-1, C-2\nAI-human-in-loop GT",
+    "crumbs": [
+      "Methodology and Method",
+      "방법론"
+    ]
+  },
+  {
+    "objectID": "mm_methodology.html#grounded-theory-strauss-corbin-1998",
+    "href": "mm_methodology.html#grounded-theory-strauss-corbin-1998",
+    "title": "방법론",
+    "section": "Grounded Theory — Strauss & Corbin (1998)",
+    "text": "Grounded Theory — Strauss & Corbin (1998)\n핵심 원칙: - 데이터에서 이론을 귀납적으로 생성 - 지속적 비교법(constant comparison) - 이론적 표본 추출(theoretical sampling) - 이론적 포화(theoretical saturation)\n주요 단계:\n\n개방 코딩(open coding): 개념 생성\n축 코딩(axial coding): 패러다임 모델 적용\n선택 코딩(selective coding): 핵심 범주 통합\n\n패러다임 모델 구성요소: 인과적 조건 → 현상 → 맥락 → 중재 조건 → 전략/행위 → 결과",
+    "crumbs": [
+      "Methodology and Method",
+      "방법론"
+    ]
+  },
+  {
+    "objectID": "mm_methodology.html#grounded-theory-charmaz-2014-구성주의-gt",
+    "href": "mm_methodology.html#grounded-theory-charmaz-2014-구성주의-gt",
+    "title": "방법론",
+    "section": "Grounded Theory — Charmaz (2014, 구성주의 GT)",
+    "text": "Grounded Theory — Charmaz (2014, 구성주의 GT)\n핵심 원칙: - 연구자와 참여자가 공동으로 의미를 구성 - 연구자의 위치성(positionality)과 성찰성(reflexivity) 강조 - 동명사 코딩(gerund coding): 과정과 행위 중심\n주요 단계:\n\n초기 코딩(initial coding): 동명사 형태, 행위 포착\n초점 코딩(focused coding): 가장 유의미한 초기 코드 선별\n이론적 코딩(theoretical coding): 코드 간 관계 개념화",
+    "crumbs": [
+      "Methodology and Method",
+      "방법론"
+    ]
+  },
+  {
+    "objectID": "mm_methodology.html#ai-computational-grounded-theory-ai-cgt",
+    "href": "mm_methodology.html#ai-computational-grounded-theory-ai-cgt",
+    "title": "방법론",
+    "section": "AI-Computational Grounded Theory (AI-CGT)",
+    "text": "AI-Computational Grounded Theory (AI-CGT)\n정의: AI-human-in-loop 방식으로 GT를 수행하는 절차적 방법론. Nelson(2020)의 Computational Grounded Theory를 AI와의 협업으로 확장한 접근.\nGT 단계별 AI 역할과 인간 역할:\n\n\n\nGT 단계\nAI 역할\n인간 역할\n\n\n\n\n초기 코딩\n높은 일관성으로 수행 가능\n검토·검증\n\n\n이론적 민감성\n부분 가능 (문헌 기반)\n필수 — 맥락적 판단\n\n\n지속적 비교\n대규모 수행 가능\n방향 설정·해석\n\n\n포화 판단\n빈도 패턴 보조\n최종 해석적 판단\n\n\n메모잉\n초안 작성 가능\n심화·수정·검증\n\n\n이론 구축\n독립적으로 불가\n주도 필수\n\n\n\n이 연구에서의 구현: - Claude Code를 AI 파트너로 활용 - 200개 인터뷰 배치 코딩 (5개 문서씩) - 연구자 검토 후 ATLAS.ti 25에 통합 - 논문 C-1에서 절차와 방법론적 특이점 전면 보고",
+    "crumbs": [
+      "Methodology and Method",
+      "방법론"
+    ]
+  },
+  {
+    "objectID": "mm_methodology.html#structural-topic-modeling-stm",
+    "href": "mm_methodology.html#structural-topic-modeling-stm",
+    "title": "방법론",
+    "section": "Structural Topic Modeling (STM)",
+    "text": "Structural Topic Modeling (STM)\n방법: Roberts et al. (2019)의 STM — LDA 기반에 문서 메타데이터를 공변량으로 통합\n특징: - 문서별 토픽 비율이 메타데이터(섹터, 연도, 직위 등)에 따라 달라질 수 있음 - R stm 패키지 사용\n본 연구 적용 방식 (논문 A): - 분석 1: 200개 전문 텍스트 입력 - 분석 2: 5,707개 코드+인용문 입력 - 공변량: 섹터, 인터뷰 연도, 위계 레벨, 혼인 상태\n참고 문헌:\n\nRoberts, M. E., Stewart, B. M., & Tingley, D. (2019). stm: An R package for structural topic models. Journal of Statistical Software, 91(2), 1–40.\nNelson, L. K. (2020). Computational grounded theory. Sociological Methods & Research, 49(1), 3–42.\nBaumer, E. P. et al. (2017). Comparing grounded theory and topic modeling. JASIST, 68(6), 1397–1410.",
+    "crumbs": [
+      "Methodology and Method",
+      "방법론"
+    ]
+  },
+  {
+    "objectID": "mm_data.html",
+    "href": "mm_data.html",
+    "title": "데이터",
+    "section": "",
+    "text": "데이터 개요",
+    "crumbs": [
+      "Methodology and Method",
+      "데이터"
+    ]
+  },
+  {
+    "objectID": "mm_data.html#데이터-개요",
+    "href": "mm_data.html#데이터-개요",
+    "title": "데이터",
+    "section": "",
+    "text": "항목\n내용\n\n\n\n\n총 인터뷰\n200개\n\n\n수집 기간\n2015–2022\n\n\n수집 방법\n반구조화 심층 인터뷰\n\n\n원본 형식\nDOC (158개) + DOCX (42개)\n\n\n변환 형식\nTXT (ATLAS.ti 분석용)",
+    "crumbs": [
+      "Methodology and Method",
+      "데이터"
+    ]
+  },
+  {
+    "objectID": "mm_data.html#기반-질적-연구-8편",
+    "href": "mm_data.html#기반-질적-연구-8편",
+    "title": "데이터",
+    "section": "기반 질적 연구 8편",
+    "text": "기반 질적 연구 8편\n\n\n\n연구\n연도\n참여자 수\n주제\n\n\n\n\nCho et al.\n2015\n18명\n일-가정 균형\n\n\nCho et al.\n2016\n50명\n기업 여성 리더 일-가정 불균형\n\n\nCho et al.\n2017\n19명\n경력 성공의 성별 차이\n\n\nHan et al.\n2018\n21명\n—\n\n\nCho et al.\n2019\n15명\n여성 CEO 경력 도전 (MNC)\n\n\nCho et al.\n2020\n3명\n여성 창업가\n\n\nCho et al.\n2021\n23명\n—\n\n\nCho et al.\n2022\n50명\n—\n\n\n합계\n\n약 200명",
+    "crumbs": [
+      "Methodology and Method",
+      "데이터"
+    ]
+  },
+  {
+    "objectID": "mm_data.html#참여자-구성",
+    "href": "mm_data.html#참여자-구성",
+    "title": "데이터",
+    "section": "참여자 구성",
+    "text": "참여자 구성\n\n\n\n\n\n\n\n항목\n범주\n\n\n\n\n직종\n기업임원, 팀리더, 의료(의사/교수), 정치, 언론, 학교, 비영리, 대학박사, 정부\n\n\n위계레벨\n7단계 (최고경영진 ~ 팀원)\n\n\n위신점수\n20–100 연속 척도\n\n\n혼인 상태\n기혼, 미혼, 이혼, 사별\n\n\n자녀 유무\n있음 / 없음\n\n\n\n상세 코드북: Analysis/Data_Original/참여자_프로파일_코드북.md 참조",
+    "crumbs": [
+      "Methodology and Method",
+      "데이터"
+    ]
+  },
+  {
+    "objectID": "mm_data.html#gt-1차-코딩-결과-2026-03-23-완료",
+    "href": "mm_data.html#gt-1차-코딩-결과-2026-03-23-완료",
+    "title": "데이터",
+    "section": "GT 1차 코딩 결과 (2026-03-23 완료)",
+    "text": "GT 1차 코딩 결과 (2026-03-23 완료)\n\n\n\n항목\n수치\n\n\n\n\n총 코드 (병합 전)\n1,087개\n\n\n총 코드 (병합 후, 활성)\n1,018개\n\n\n코드 유형\nIn-vivo / Gerund / Meaning\n\n\n총 인용문\n5,707개 (5개 스킵)\n\n\nCode-Quotation 링크\n25,204개\n\n\n코딩 완료 문서\n200 / 200\n\n\n이론적 포화\n달성",
+    "crumbs": [
+      "Methodology and Method",
+      "데이터"
+    ]
+  },
+  {
+    "objectID": "mm_data.html#주요-테마-분포-잠정-rd-001-기준",
+    "href": "mm_data.html#주요-테마-분포-잠정-rd-001-기준",
+    "title": "데이터",
+    "section": "주요 테마 분포 (잠정, RD-001 기준)",
+    "text": "주요 테마 분포 (잠정, RD-001 기준)\n\n\n\n테마\n코드 빈도\n\n\n\n\n성차별·유리천장\n3,742회\n\n\n일-가정 양립\n2,799회\n\n\n정체성·내적동력\n2,360회\n\n\n경력·성취\n1,881회\n\n\n사회적 역할인식\n1,527회\n\n\n리더십 스타일\n1,315회\n\n\n역경·회복력\n1,218회\n\n\n네트워크·관계\n737회",
+    "crumbs": [
+      "Methodology and Method",
+      "데이터"
+    ]
+  },
+  {
+    "objectID": "mm_data.html#데이터-접근-및-윤리",
+    "href": "mm_data.html#데이터-접근-및-윤리",
+    "title": "데이터",
+    "section": "데이터 접근 및 윤리",
+    "text": "데이터 접근 및 윤리\n\nIRB: 원 8개 연구 — Indiana University IRB 승인\n본 재분석 — UT Tyler IRB Exempt (Category 4: 2차 데이터 분석)\n익명화: 참여자 식별정보 제거, 그룹코드(A-D) + 가명 사용\n데이터 보관: 연구팀 내부 보안 스토리지",
+    "crumbs": [
+      "Methodology and Method",
+      "데이터"
+    ]
+  },
+  {
+    "objectID": "lr_search_incl_excl.html",
+    "href": "lr_search_incl_excl.html",
+    "title": "Searching and Inclusion & Exclusion",
+    "section": "",
+    "text": "Round 1",
+    "crumbs": [
+      "Literature Review",
+      "Searching and Inclusion & Exclusion"
+    ]
+  },
+  {
+    "objectID": "lr_search_incl_excl.html#search-kewwords-and-category",
+    "href": "lr_search_incl_excl.html#search-kewwords-and-category",
+    "title": "Searching and Inclusion & Exclusion",
+    "section": "Search kewwords and category",
+    "text": "Search kewwords and category",
+    "crumbs": [
+      "Literature Review",
+      "Searching and Inclusion & Exclusion"
+    ]
+  },
+  {
+    "objectID": "lr_search_incl_excl.html#keywords-combination",
+    "href": "lr_search_incl_excl.html#keywords-combination",
+    "title": "Searching and Inclusion & Exclusion",
+    "section": "keywords combination",
+    "text": "keywords combination",
+    "crumbs": [
+      "Literature Review",
+      "Searching and Inclusion & Exclusion"
+    ]
+  },
+  {
+    "objectID": "lr_search_incl_excl.html#search-kewwords-and-category-1",
+    "href": "lr_search_incl_excl.html#search-kewwords-and-category-1",
+    "title": "Searching and Inclusion & Exclusion",
+    "section": "Search kewwords and category",
+    "text": "Search kewwords and category",
+    "crumbs": [
+      "Literature Review",
+      "Searching and Inclusion & Exclusion"
+    ]
+  },
+  {
+    "objectID": "lr_search_incl_excl.html#keywords-combination-1",
+    "href": "lr_search_incl_excl.html#keywords-combination-1",
+    "title": "Searching and Inclusion & Exclusion",
+    "section": "keywords combination",
+    "text": "keywords combination",
+    "crumbs": [
+      "Literature Review",
+      "Searching and Inclusion & Exclusion"
+    ]
+  },
+  {
+    "objectID": "lr_search_incl_excl.html#search-kewwords-and-category-2",
+    "href": "lr_search_incl_excl.html#search-kewwords-and-category-2",
+    "title": "Searching and Inclusion & Exclusion",
+    "section": "Search kewwords and category",
+    "text": "Search kewwords and category",
+    "crumbs": [
+      "Literature Review",
+      "Searching and Inclusion & Exclusion"
+    ]
+  },
+  {
+    "objectID": "lr_search_incl_excl.html#keywords-combination-2",
+    "href": "lr_search_incl_excl.html#keywords-combination-2",
+    "title": "Searching and Inclusion & Exclusion",
+    "section": "keywords combination",
+    "text": "keywords combination",
+    "crumbs": [
+      "Literature Review",
+      "Searching and Inclusion & Exclusion"
+    ]
+  },
+  {
+    "objectID": "lr_referencelist.html",
+    "href": "lr_referencelist.html",
+    "title": "Reference List",
+    "section": "",
+    "text": "Round 1\nCategory, Classification and Decision Note for Selected Literature in Rounds",
+    "crumbs": [
+      "Literature Review",
+      "Reference List"
+    ]
+  },
+  {
+    "objectID": "lr_referencelist.html#round-2",
+    "href": "lr_referencelist.html#round-2",
+    "title": "Reference List",
+    "section": "Round 2",
+    "text": "Round 2",
+    "crumbs": [
+      "Literature Review",
+      "Reference List"
+    ]
+  },
+  {
+    "objectID": "lr_referencelist.html#round-3",
+    "href": "lr_referencelist.html#round-3",
+    "title": "Reference List",
+    "section": "Round 3",
+    "text": "Round 3",
+    "crumbs": [
+      "Literature Review",
+      "Reference List"
+    ]
+  },
+  {
+    "objectID": "lr_referencelist.html#additional-during-and-after-writing",
+    "href": "lr_referencelist.html#additional-during-and-after-writing",
+    "title": "Reference List",
+    "section": "Additional (during and after writing)",
+    "text": "Additional (during and after writing)",
+    "crumbs": [
+      "Literature Review",
+      "Reference List"
+    ]
+  },
+  {
+    "objectID": "lr_quotes_and_paraphrases.html",
+    "href": "lr_quotes_and_paraphrases.html",
+    "title": "Quotes and Paraphrases",
+    "section": "",
+    "text": "Fri Jul 21 02:27:35 KST 2022",
+    "crumbs": [
+      "Literature Review",
+      "Quotes and Paraphrases"
+    ]
+  },
+  {
+    "objectID": "lr_quotes_and_paraphrases.html#일반적인-질문-생각나는-대로",
+    "href": "lr_quotes_and_paraphrases.html#일반적인-질문-생각나는-대로",
+    "title": "Quotes and Paraphrases",
+    "section": "일반적인 질문 (생각나는 대로)",
+    "text": "일반적인 질문 (생각나는 대로)\n\nWhat is : (definition)\n\nhuman resource analytics\npeople analytics\nworkplace analytics\nlearning analytics\ncomputational social science\nmarketing analytics\naudit analysis\nbusiness Analytics\n\nWhat is the charteristics of analytics\nWhat is the simiarlirty of the analytics\nWhat is difference between analytics\nWhat is main frame(core/idea) of the analytics",
+    "crumbs": [
+      "Literature Review",
+      "Quotes and Paraphrases"
+    ]
+  },
+  {
+    "objectID": "lr_quotes_and_paraphrases.html#hrd-master-class에서의-질문",
+    "href": "lr_quotes_and_paraphrases.html#hrd-master-class에서의-질문",
+    "title": "Quotes and Paraphrases",
+    "section": "HRD master class에서의 질문",
+    "text": "HRD master class에서의 질문\n\nWhat do we mean by Data Analytics\n\nhow it is defined and how does our understanding of the term vary around the world?\n\nWhat’s the relationship between Data Analytics and the concepts of work and the workplace?\n\nhow has that relationship changed over the years?\n\nWhat’s the connection between Data Analytics and HRD?\n\nHow does research, theory and practice in one influence research, theory and practice in the other?\n\nIf we look at the challenges facing HRD in organizations over the next few years, how does Data Analytics help HRD in understanding those challenges and working on them?\nWhat do we mean by Data Analytics\n\nhow is it defined and how does our understanding of the term vary around the world?\n\nWhat’s the relationship between Data Analytics and the concepts of work and the workplace?\n\nhow has that relationship changed over the years?\n\nWhat’s the connection between Data Analytics and HRD?\n\nhow does research, theory and practice in one influence research, theory and practice in the other?\n\nIf we look at the challenges facing HRD in organizations over the next few years, how does Data Analytics help HRD in understanding those challenges and working on them?\nI’m wondering what happens if HRD takes a more data analytics approach to addressing organizational challenges\n\nto pick on one for an example, if we consider how best to help employees to learn from each other especially with employees working remotely or in hybrid forms,\nhow can data analytics help HRD to address that challenge?\n\nWithin organizations, what HRD questions could you see data analytics answering in the coming years that, in most organizations, currently go unanswered?\nEarlier in the episode, you mentioned leveraging data that already exists within organizations – for a typical organization, what existing data could HRD use and where does that data reside?\nWhat advice do you have for HRD professionals who want to learn how to do data analytics\n\nhow to learn the basics of data analysis and what tools to use?\n\nWhat advice do you have on how HRD professionals could tap into data experts working within organizations\n\nwhat job titles might those people have, and are there any best practices around how to work with them?",
+    "crumbs": [
+      "Literature Review",
+      "Quotes and Paraphrases"
+    ]
+  },
+  {
+    "objectID": "lr_quotes_and_paraphrases.html#tws세션에서의-질문",
+    "href": "lr_quotes_and_paraphrases.html#tws세션에서의-질문",
+    "title": "Quotes and Paraphrases",
+    "section": "TWS세션에서의 질문",
+    "text": "TWS세션에서의 질문\n\n먼저 HRA/PA란 무엇인지 더 명확하게 알고싶습니다\n\nHRA/PA이란 무엇을 의미합니까?\nHRD 분야 연구/ 실무 측면에서HRA/PA 에 대한 이해 및 활용이왜 중요할까요?\nHRD 입장에서 조직의 어떤 문제들을 해결해 줄까요?\n\n현재까지 학계와 현장에서는얼마나 활용되고 발전해 왔는지 궁금합니다.\n\n먼저 연구 측면에서는 현재까지 어떤 발전/변화가 있었나요?\nHRD 분야에서는 연구가 이루어 지고 있나요?\n\n또 실무에서 HRD가 현장의 문제를 해결하기 위해 더 많은 데이터 분석 접근 방식을 취하면 어떻게 될지 궁금합니다.\n\nHRD 현장/실무에서는 어느 정도 도입 및 활용이 되고 있나요?\n현장에서의 HRA/PA 적용 사례(Best Practice)가 있을까요?\n\n그렇다면 당장 HRD 실무자들이 HRA/PA 도입 및 활용을 위해 무엇을 할 수 있을지 궁급합니다.\n\nHRD에서 당장 사용할 수 있는 기존 데이터는 무엇이 있고 어떻게 활용 가능한지?\n어떤 결과를 기대 할 수 있는지?\n조직 내 타부서 또는 외부 데이터 전문가를 활용할 수 있는 방법도 있을까요?\n\n마지막으로 앞으로의 방향성 그리고 HRD 실무자에게 주는 조언에 대해 여쭙고 싶습니다.\n\nHRA/PA에 대한 전망과 HRD에 주는 시사점은 무엇인지?\n앞으로 HRA/PA를도입 하고자 하는 HRD 전문가에게 해주고 싶은 조언",
+    "crumbs": [
+      "Literature Review",
+      "Quotes and Paraphrases"
+    ]
+  },
+  {
+    "objectID": "lr_quotes_and_paraphrases.html#리터리쳐들에서-도출된-질문들",
+    "href": "lr_quotes_and_paraphrases.html#리터리쳐들에서-도출된-질문들",
+    "title": "Quotes and Paraphrases",
+    "section": "## 리터리쳐들에서 도출된 질문들",
+    "text": "## 리터리쳐들에서 도출된 질문들",
+    "crumbs": [
+      "Literature Review",
+      "Quotes and Paraphrases"
+    ]
+  }
+]

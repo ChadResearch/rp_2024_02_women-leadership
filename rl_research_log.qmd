@@ -1,0 +1,64 @@
+# 연구 로그 {.unnumbered}
+
+## 2026-03-24
+- 기존문서 전수 검토 완료 (draft 1~4, 조연주 교수 2024-06 수정본, AHRD 포스터, IRB 서류, 문헌 통합 분석, CFP)
+- 연구방향 A, B, C 논문 확정
+- **A 논문 확정**: 이중 STM 분석 — 전문 + 코드·인용문
+- **B 논문 확정**: 문헌 기반 개념 모델 → 질적 분석 (ai-work-change 방식 적용)
+- **C-1 논문 확정**: AI-human-in-loop GT 방법론 페이퍼 (방법론 저널)
+- **C-2 논문 확정**: 한국 여성 리더십 GT 발견 결과 (주제 저널)
+- README, _project.yaml, public Quarto 북 업데이트 완료
+- 연구방향 문서 작성: RD-001 ~ RD-004
+- **GT 2차 코딩 ATLAS.ti 빌드 전체 완료**:
+  - Phase 2: 57개 범주 TagGroup + 범주별 메모 58개
+  - Phase 3: freq 2-9 코드 통합 (276매핑 + 162 미분류)
+  - Phase 4: 초점코드 40개 TagGroup + 메모 42개
+  - Phase 5: 타입폴더 3개 (in-vivo/gerund/meaning) + 메모 3개, 누적 109개
+  - Phase 5N: 네트워크 뷰 5개 + tagTagLink 21개 + memoNetworkLink/memoTagLink 연결
+- **HITL (Human-in-the-Loop) 시스템 구현 완료**:
+  - `extract_researcher_edits.py`: .atlasti diff → JSON
+  - `apply_researcher_edits.py`: JSON 편집 → Phase 빌드 자동 반영
+  - Phase 2~5 빌드 스크립트 모두 HITL 통합
+- **AI-Work-Change v2 네트워크 빌드 (`AI-Work-5-네트워크뷰_v2.atlasti`)**:
+  - 5 NV + 47 tagTagLink + 5 memoNetworkLink + 5 memoTagLink ✅
+  - save/close 크래시 해결 확인 (ATLAS.ti 25 버그 자체 해결)
+- ATLAS.ti 빌드 패턴 지식베이스 업데이트 (코드 관계, 네트워크 뷰, HITL)
+
+## 2026-03-23
+- 1차 코딩 완료 검증
+  - 1,018 코드 / 5,707 인용문 / 25,204 코드-인용문 링크
+  - 200/200 문서 코딩 완료
+  - 이론적 포화 달성
+- ATLAS.ti Build 1 (여성리더십_1_1차코딩완료.atlasti) 검증 완료
+
+## 2026-03-20
+- 프로젝트 단계 이관: 개시 단계 → 검증 중
+
+## 2024-06-28
+- 팀 업무 분장 메모 (조연주 → 채충일: 문헌 검토 완성, 분석 작성, Findings)
+- 목표: 7월 말 초고 완성, 8월 19일 투고
+
+## 2024-06-23
+- 조연주 교수 수정본 제출 (draft_Jun23_2024_from_Cho.docx)
+
+## 2024-05
+- 토픽 레이블 검토 세션 (이수미, 유지은 검토)
+
+## 2024-03-29
+- 팀 미팅
+  - 채충일: 연구 홈 소개, STM 5개 모델 작업 중
+  - 레이블링: 유지은·채충일 → 조연주·이수미 검토 순서 제안
+  - 조연주: 구글드라이브 draft 업데이트 중
+- 다음 미팅: 4월 13일 오후 11시 (중국 시간)
+
+## 2023-09-29
+- 키워드 네트워크 분석 완료 (A Brief Report.docx)
+- 단어 빈도 분석 (wordfreq.csv)
+
+## 2023
+- STM 분석 반복 실행: Analysis0 → Analysis8
+- Draft 1 작성
+
+## 2015–2022
+- 8개 질적 연구 수행
+- 200개 심층 인터뷰 수집 (다양한 섹터)

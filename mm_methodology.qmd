@@ -1,0 +1,88 @@
+# 방법론 {.unnumbered}
+
+## 연구 방법론 개요
+
+본 연구는 세 가지 방법론적 접근을 통합한다.
+
+| 방법론 | 적용 논문 | 핵심 특징 |
+|--------|-----------|-----------|
+| Structural Topic Modeling (STM) | 논문 A | 계산적 텍스트 분석, 귀납적 |
+| 개념 모델 기반 질적 분석 | 논문 B | 연역-귀납 혼합 |
+| AI-Computational Grounded Theory (AI-CGT) | 논문 C-1, C-2 | AI-human-in-loop GT |
+
+---
+
+## Grounded Theory — Strauss & Corbin (1998)
+
+**핵심 원칙**:
+- 데이터에서 이론을 귀납적으로 생성
+- 지속적 비교법(constant comparison)
+- 이론적 표본 추출(theoretical sampling)
+- 이론적 포화(theoretical saturation)
+
+**주요 단계**:
+
+1. 개방 코딩(open coding): 개념 생성
+2. 축 코딩(axial coding): 패러다임 모델 적용
+3. 선택 코딩(selective coding): 핵심 범주 통합
+
+**패러다임 모델 구성요소**: 인과적 조건 → 현상 → 맥락 → 중재 조건 → 전략/행위 → 결과
+
+---
+
+## Grounded Theory — Charmaz (2014, 구성주의 GT)
+
+**핵심 원칙**:
+- 연구자와 참여자가 공동으로 의미를 구성
+- 연구자의 위치성(positionality)과 성찰성(reflexivity) 강조
+- 동명사 코딩(gerund coding): 과정과 행위 중심
+
+**주요 단계**:
+
+1. 초기 코딩(initial coding): 동명사 형태, 행위 포착
+2. 초점 코딩(focused coding): 가장 유의미한 초기 코드 선별
+3. 이론적 코딩(theoretical coding): 코드 간 관계 개념화
+
+---
+
+## AI-Computational Grounded Theory (AI-CGT)
+
+**정의**: AI-human-in-loop 방식으로 GT를 수행하는 절차적 방법론. Nelson(2020)의 Computational Grounded Theory를 AI와의 협업으로 확장한 접근.
+
+**GT 단계별 AI 역할과 인간 역할**:
+
+| GT 단계 | AI 역할 | 인간 역할 |
+|---------|---------|----------|
+| 초기 코딩 | 높은 일관성으로 수행 가능 | 검토·검증 |
+| 이론적 민감성 | 부분 가능 (문헌 기반) | 필수 — 맥락적 판단 |
+| 지속적 비교 | 대규모 수행 가능 | 방향 설정·해석 |
+| 포화 판단 | 빈도 패턴 보조 | 최종 해석적 판단 |
+| 메모잉 | 초안 작성 가능 | 심화·수정·검증 |
+| 이론 구축 | 독립적으로 불가 | 주도 필수 |
+
+**이 연구에서의 구현**:
+- Claude Code를 AI 파트너로 활용
+- 200개 인터뷰 배치 코딩 (5개 문서씩)
+- 연구자 검토 후 ATLAS.ti 25에 통합
+- 논문 C-1에서 절차와 방법론적 특이점 전면 보고
+
+---
+
+## Structural Topic Modeling (STM)
+
+**방법**: Roberts et al. (2019)의 STM — LDA 기반에 문서 메타데이터를 공변량으로 통합
+
+**특징**:
+- 문서별 토픽 비율이 메타데이터(섹터, 연도, 직위 등)에 따라 달라질 수 있음
+- R `stm` 패키지 사용
+
+**본 연구 적용 방식 (논문 A)**:
+- 분석 1: 200개 전문 텍스트 입력
+- 분석 2: 5,707개 코드+인용문 입력
+- 공변량: 섹터, 인터뷰 연도, 위계 레벨, 혼인 상태
+
+**참고 문헌**:
+
+- Roberts, M. E., Stewart, B. M., & Tingley, D. (2019). stm: An R package for structural topic models. *Journal of Statistical Software*, 91(2), 1–40.
+- Nelson, L. K. (2020). Computational grounded theory. *Sociological Methods & Research*, 49(1), 3–42.
+- Baumer, E. P. et al. (2017). Comparing grounded theory and topic modeling. *JASIST*, 68(6), 1397–1410.
